@@ -1,2 +1,4 @@
 git_practices
 aa
+git add
+git commit
